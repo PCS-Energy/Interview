@@ -1,7 +1,7 @@
 # Interview
 
-Complete the following challenge in a language of your choice.  Once your work is done, create a PR to the Master branch.
-We will respond to your PR with comments. Answer the PR comments to complete the challenge.
+Complete the following challenge in a language of your choice.  Once your work is done, create a Pull Request(PR) to the `Main` branch.
+We will respond to your PR with questions in comments on the PR. Respond to all the questions to complete the challenge.
 
 Create a REST API using any language or web framework you prefer, which performs the following functionality:
 
