@@ -9,11 +9,11 @@ Create a REST API using any language or web framework you prefer, which performs
     
 2. Provides a GET endpoint at /data which returns the same JSON formatted list of 500 numbers that were submitted with the first task above, which are now sorted from lowest to highest.
 
-BONUS:
+#### BONUS:
 
 - Provides a PATCH endpoint at /data which allows insertion of a single number into the list which gets placed in the proper order maintaining the 500 number limit. The largest number is removed from the list to keep the 500 number limit.
 
-Questions you may have:
+#### Questions you may have:
 
 1. What is a valid number?  
 - Any decimal number that is not scientific notation.  Trim non-sig figures and empty spaces.
