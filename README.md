@@ -16,6 +16,6 @@ Create a REST API using any language or web framework you prefer, which performs
 #### Questions you may have:
 
 1. What is a valid number?  
-- Any decimal number that is not scientific notation.  Trim non-sig figures and empty spaces.
+- Any decimal number that is not scientific notation.  Trim non-sig figures and empty spaces.  Negatives are allowed. A positive number should have no symbol included, otherwise it is not a number.
 2. How should I store the numbers?
 - Do everything in memory for this implementation, don't use an external database.  Your code should compile/run if we want to run it ourselves without any external databases or tools.
