@@ -11,7 +11,7 @@ Create a REST API using any language or web framework you prefer, which performs
 
 #### BONUS:
 
-- Provides a PATCH endpoint at /data which allows insertion of a single number into the list which gets placed in the proper order maintaining the 500 number limit. The largest number is removed from the list to keep the 500 number limit.
+- Provides a PATCH endpoint at /data which allows insertion of a single number into the list which gets placed in the proper order but maintaining the 500 number limit. The previous largest number is removed from the list before adding the new number to keep the 500 number limit.
 
 #### Questions you may have:
 
